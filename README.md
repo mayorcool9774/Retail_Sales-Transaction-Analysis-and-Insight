@@ -5,21 +5,18 @@
 
 ## 📚 Table of Contents
 
-- [ Project Overview](#-project-overview)  
-- [ Data Source](#-data-source)  
-- [ Tools & Technologies](#-tools--technologies)  
-- [ Objectives](#-objectives)  
-- [ Data Cleaning & Preparation](#-data-cleaning--preparation)  
-  - [ Preprocessing in Excel](#-preprocessing-in-excel)  
-  - [ Transformation in MySQL](#-transformation-in-mysql)  
-  - [ Power Query & DAX](#-power-query-in-power-bi)  
-- [ Business Questions Answered (EDA)](#-business-questions-answered-eda)  
-- [ Data Analysis (SQL)](#-data-analysis)  
-- [ Key Insights/Result](#-key-insightsresult)  
-- [ Recommendations](#-recommendations)  
-- [ Limitations](#-limitations)  
-- [ Challenges Encountered & Solutions](#-challenges-encountered--solutions)  
-- [Contact](#-contact)  
+- [ Project Overview](#project-overview)  
+- [ Data Source](#data-source)  
+- [ Tools & Technologies](#tools--technologies)  
+- [ Objectives](#objectives)  
+- [ Data Cleaning & Preparation](#data-cleaning--preparation)  
+- [ Business Questions Answered (EDA)](#business-questions-answered-eda)  
+- [ Data Analysis (SQL)](#data-analysis)  
+- [ Key Insights/Result](#key-insightsresult)  
+- [ Recommendations](#recommendations)  
+- [ Limitations](#limitations)  
+- [ Challenges Encountered & Solutions](#challenges-encountered--solutions)  
+- [Contact](#contact)  
 
 
 ## Project Overview
