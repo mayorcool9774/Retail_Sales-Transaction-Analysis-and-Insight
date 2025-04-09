@@ -3,7 +3,7 @@
 ## Dashboard 
 ![retail store dashboard](https://github.com/user-attachments/assets/93fcfd64-60a5-4f2e-8ac2-ade5c3aff8a3)
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [ Project Overview](#project-overview)  
 - [ Data Source](#data-source)  
