@@ -1,4 +1,4 @@
-# Retail Store Transaction Dashboard
+# Retail_Store Transaction Analysis and Insight
 
 ## Dashboard 
 ![retail store dashboard](https://github.com/user-attachments/assets/93fcfd64-60a5-4f2e-8ac2-ade5c3aff8a3)
@@ -72,7 +72,7 @@ This project focuses on analyzing retail store transactions to uncover key busin
 
 ## Business Questions Answered (EDA)
 
-- What are the top-selling product categories?
+- What are the top selling product categories?
 - What time of the year sees the highest sales?
 - How do weekday sales compare to weekend sales?
 - Which payment methods are most commonly used?
